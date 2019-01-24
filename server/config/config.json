@@ -1,0 +1,10 @@
+{
+	"prod": {
+		"PORT": 4000,
+		"MONGODB_URI": "mongodb://username:password@ds135394.mlab.com:35394/gql-book"
+	},
+	"development": {
+		"PORT": 4000,
+		"MONGODB_URI": "mongodb://localhost:27017/gql-book"
+	}
+}
